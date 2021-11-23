@@ -1,0 +1,9 @@
+name: ImageMap
+version: ${project.version}
+main: com.github.jasgo.imagemap.ImageMap
+api-version: 1.17
+authors: [ Jasgo ]
+
+commands:
+  map:
+    description: "/map <ImageLink>"
